@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Telemedical approach
     description                           : Location- and time-independent assessment of the patient’s disease state.
-    fontawesome_icon_name                 : user-doctor
+    fontawesome_icon_name                 : app-store
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
