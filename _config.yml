@@ -20,14 +20,14 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Henryk Borzymowski                                
+your_link                                 : henryk@continoo.com                    
+your_city                                 : Munich                               
+email_address                             : henryk@continoo.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : conitnoo
 youtube_username                          :
 
 
@@ -88,7 +88,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#363b3d"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
@@ -96,8 +96,8 @@ app_title_color                           : "#363b3d"
 app_price_color                           : "#363b3d"
 app_description_color                     : "#363b3d"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#a194c0"
+feature_text_color                        : "#7bb2c7"
 
 feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
