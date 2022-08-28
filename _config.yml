@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Objective
     description                           : Overcome the “parking lot effect” via objective assessment of the patient’s condition.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bullseye
 
   - title                                 : Device-agnostic
     description                           : Device-agnostic software product that runs with any device (iWatch, Fitbit, …) on any OS.
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Privacy preserving
     description                           : Privacy preserving application - continoo only stores encrypted medical data.
-    fontawesome_icon_name                 : shield-check
+    fontawesome_icon_name                 : shield-alt
   
   - title                                 : Telemedical approach
     description                           : Location- and time-independent assessment of the patient’s disease state.
