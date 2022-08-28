@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Personalization
     description                           : Personalization allows targeted assessments that can vary among patients.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : fingerprint
     
   - title                                 : Continuous
     description                           : Continuous monitoring allows trend detection and better decision making. 
-    fontawesome_icon_name                 : rotate
+    fontawesome_icon_name                 : sync
 
   - title                                 : Objective
     description                           : Overcome the “parking lot effect” via objective assessment of the patient’s condition.
-    fontawesome_icon_name                 : bullseye-pointer
+    fontawesome_icon_name                 : magic
 
   - title                                 : Device-agnostic
     description                           : Device-agnostic software product that runs with any device (iWatch, Fitbit, …) on any OS.
@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Telemedical approach
     description                           : Location- and time-independent assessment of the patient’s disease state.
-    fontawesome_icon_name                 : app-store
+    fontawesome_icon_name                 : user-md
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
