@@ -3,58 +3,89 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
+# Impressum & Datenschutz
 
-**Last updated**  
-August 1 2019
+Inhaltlich verantwortlich und vertretungsberechtigt:
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Henry Borzymowski
+Nympenburger Strasse 186
+80634 Muenchen  
+contact [aet] continoo.de  
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+# Datenschutz
 
-<br>
+Diese Website benutzt keine Tracker, Cookies, Newsletter, Kontaktformulare, externe Schriftbibliotheken oder externe Frameworks.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Einzig der Server benötigt für die technische Bereitstellung der Seite - sowie die erstellung von Logfiles - grundlegende technische Daten. Diese Daten werden nicht für Marketingzwecke genutzt und zügig automatisch verfremdet.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Die obligatorischen ausführlicheren Informationen hierzu gib es im Folgenden:
+Bereitstellung der Website und Erstellung von Logfiles
+Umfang der Datenverarbeitung
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Bei jedem Aufruf dieser Website erfasst der Server automatisiert Daten und Informationen über den ausrufenden Computer. Folgende Daten werden hierbei erhoben:
 
-<br>
+* Browsertyp/-version
+* Verwendetes Betriebssystem
+* Referrer URL (die zuvor besuchte Seite)
+* Hostname des zugreifenden Rechners (IP-Adresse)
+* Uhrzeit der Serveranfrage
+* URL, die vom System des Nutzers über unsere Website aufgerufen wird
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Die Daten werden in den Logfiles meines Systems gespeichert. Diese Daten werden nicht mit anderen personenbezogenen Daten des Nutzers zusammengeführt.
+Rechtsgrundlage für die Datenverarbeitung
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Rechtsgrundlage für die vorübergehende Speicherung der Logfiles und Daten ist Art. 6 Abs. 1 lit. f DSGVO.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+# Zweck der Datenverarbeitung
 
-<br>
+Die kurzfristige Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Computer des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse für die Dauer der Sitzung gespeichert bleiben.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Website sicherzustellen. Zudem dienen die Daten zur Optimierung der Website und zur Sicherstellung der Sicherheit meiner IT-Systeme. Eine Auswertung der Daten zu Marketingzwecken findet in dabei nicht statt.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+In diesen Zwecken liegt auch mein berechtigtes Interesse an der Datenverarbeitung nach Art. 6 Abs. 1 lit. f DSGVO.
+Dauer der Speicherung
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Falle der Erfassung der Daten zur Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist.
 
-<br>
+Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens sieben Tagen der Fall. Eine darüberhinausgehende Speicherung ist möglich. In diesem Fall werden die IP-Adressen der Nutzer gelöscht oder verfremdet, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist.
+Widerspruchs- und Beseitigungsmöglichkeit
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-<br>
+# Rechte
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Auskunftsrecht
+
+Ich gebe Ihnen gerne Auskunft über ihre mir vorliegenden persönlichen Daten: Wie diese verarbeitet werden, welche Kategorien diese haben, mit wem ich diese teile, die Kriterien wann ich diese lösche.
+Recht auf Berichtigung
+
+Sie haben auch ein Recht auf eine unverzügliche Berichtigung dieser Daten, sofern diese unrichtig oder unvollständig sind.
+Recht auf Berichtigung
+
+Es besteht ein Recht auf die Einschränkung der Verarbeitung für die Zeit in der die personenbezogen Daten geprüft werden, diese nicht länger benötigt werden, die Verarbeitung unrechtmäßig ist, aber sie die Löschung ablehnen oder sie noch für die Ausübung von Rechtsansprüchen benötigt werden.
+
+Diese Daten dürfen fortan – abgesehen von der Speicherung – nur mit ihrer Einwilligung, oder für Rechtsansprüche, zum Schutz anderer juris. oder natürlichen Personen oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaats verarbeitet werden.
+Recht auf Löschung
+
+Sie können verlangen, dass ich ihre personenbezogenen Daten lösche, sofern:
+
+* Sie nicht für den eigentlichen Zweck notwendig sind
+* Sie ihre Einwilligung zur Nutzung wiederufen und es sonst keine Rechtsgrundlage hierzu gibt
+* Keine vorrangigen Gründe für die Verarbeitung vorliegen
+* Die Daten unrechtmäßig genutzt wurden
+* Diese für die Erfüllung rechtlicher Verpflichtungen nach dem Recht der EU (bzw. eines Mitgliedsstaates) es erforderlich macht
+
+# Informationen an Dritte
+
+Sollten die Daten öffentlich gemacht worden sein und eine Löschung notwendig, so kann unter Berücksichtigung der technischen Möglichkeiten und Kosten angemessene Maßnahmen, auch technischer Art, um mögliche Dritte über die Löschungsnotwendigkeit zu informieren, und etwaige Links bzw. Kopien der personenbezogenen Daten zu zerstören.
+Ausnahmen
+
+Eine Löschungsnotwendigkeit besteht nicht, sofern die Ausübung des Rechts der freien Meinungsäußerung und Information dadurch beeinträchtigt wird.
+
+Die Verarbeitung im öffentlichen Interesse liegt, beispielsweise für Archivzwecke, wissenschaftliche oder historische Forschungszwecke bzw. statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit dies unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Recht auf Datenübertragbarkeit
+
+Sie haben das Recht ihre personenbezogenen Daten in einem gängigen Format zu erhalten. Das Recht für Datenübertragbarkeit gilt nicht für personenbezogene Daten, die erforderlich sind zur Wahrung von Aufgaben, die im öffentlichen Interesse liegen, oder aber im Sinne öffentlicher Gewalt liegt, die mir übertragen wurde.
+Recht auf Beschwerde bei einer Aufsichtsbehörde
+
+Sie können sich bei einer Aufsichtsbehörde beschweren, sollten Sie der Meinung sein, dass hier ein Verstoß gegen die DSGVO vorliegt.
