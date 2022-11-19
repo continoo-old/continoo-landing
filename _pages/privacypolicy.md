@@ -7,9 +7,9 @@ include_in_header: false
 
 Inhaltlich verantwortlich und vertretungsberechtigt:
 
-Henry Borzymowski
-Nympenburger Strasse 186
-80634 Muenchen  
+Henryk Borzymowski 
+Nympenburger Strasse 186 
+80634 Muenchen 
 contact [aet] continoo.de  
 
 # Datenschutz
